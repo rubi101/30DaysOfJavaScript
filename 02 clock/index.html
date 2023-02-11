@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clock</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="clock">
+      <div class="hour">
+        <div class="hr" id="hr"></div>
+      </div>
+      <div class="min">
+        <div class="mn" id="mn"></div>
+      </div>
+      <div class="sec">
+        <div class="sc" id="sc"></div>
+      </div>
+    </div>
+
+    <script>
+      // clock hand variables
+      let hourhand = document.getElementById('hr')
+      let minhand = document.getElementById('mn')
+      let sechand = document.getElementById('sc')
+      // loop
+      setInterval(() => {
+        // time variavles
+        let time = new Date()
+        let hour = time.getHours()
+        let min = time.getMinutes()
+        let sec = time.getSeconds()
+        // maths
+        let hr = hour * 30 + min / 2
+        let mr = min * 6
+        let sr = sec * 6
+
+        // hand rptation
+        hourhand.style.transform = `rotate(${hr}deg)`
+        minhand.style.transform = `rotate(${mr}deg)`
+        sechand.style.transform = `rotate(${sr}deg)`
+      }, 1000)
+    </script>
+  </body>
+</html>
