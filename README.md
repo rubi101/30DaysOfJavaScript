@@ -12,7 +12,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 
 | Day |                                                Name                                                 |
 | --- | :-------------------------------------------------------------------------------------------------: |
-| 1   |                   [Drum Kit](https://30daysofjs.netlify.app/01%20-%20drum%20kit/)                   |
+| 1   |                   [Drum Kit](https://30daysofjs-day1-drum-kit.netlify.app/)                   |
 | 2   |                       [Clock](https://30daysofjs.netlify.app/02%20-%20clock/)                       |
 | 3   |    [Random Color Generator](https://30daysofjs.netlify.app/03%20-%20random%20color%20generator/)    |
 | 4   | [Random Password Generator](https://30daysofjs.netlify.app/05%20-%20random%20password%20generator/) |
