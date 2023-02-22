@@ -20,7 +20,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 7   |        [Multiplication App](https://30daysofjs-day07-multiplication-app.netlify.app/)        |
 | 8   |             [Button Ripple](https://30daysofjs-day08-button-ripple.netlify.app/)             |
 | 9   |                  [Real-time Character Counter](https://30daysofjs-day09-real-time-char-count.netlify.app/)                  |
-<--| 10  |    [Emoji Switcher](https://30daysofjs.netlify.app/10%20-%20emoji%20switcher%20like%20discord/)     | -->
+<!--| 10  |    [Emoji Switcher](https://30daysofjs.netlify.app/10%20-%20emoji%20switcher%20like%20discord/)     | -->
 
 <!--  </td><td>
     
