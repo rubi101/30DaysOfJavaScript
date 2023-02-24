@@ -22,12 +22,12 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 9   |                  [Real-time Character Counter](https://30daysofjs-day09-real-time-char-count.netlify.app/)                  |
 | 10  |    [Sticky Navbar](https://30daysofjs-day10-sticky-navbar.netlify.app/)     | 
 
-<!--  </td><td>
+  </td><td>
     
 | Day |                                                Name                                                 |
 | --- | :-------------------------------------------------------------------------------------------------: |    
-| 11  |               [Color Picker](https://30daysofjs.netlify.app/11%20-%20color%20picker/)               |
-| 12  |            [Custom QR Code](https://30daysofjs.netlify.app/12%20-%20custom%20qr%20code/)            |
+| 11  |               [Heart Animation](https://30daysofjs-day11-heart-animation.netlify.app/)               |
+<!--| 12  |            [Custom QR Code](https://30daysofjs.netlify.app/12%20-%20custom%20qr%20code/)            |
 | 13  |            [Favicon Fetcher](https://30daysofjs.netlify.app/13%20-%20favicon%20fetcher/)            |
 | 14  |              [Visit Counter](https://30daysofjs.netlify.app/14%20-%20visit%20counter/)              |
 | 15  |             [Joke Generator](https://30daysofjs.netlify.app/15%20-%20joke%20generator/)             |
@@ -35,10 +35,10 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 17  |        [Text Speed Control](https://30daysofjs.netlify.app/17%20-%20text%20speed%20control/)        |
 | 18  |                   [Stopwatch](https://30daysofjs.netlify.app/18%20-%20stopwatch/)                   |
 | 19  |              [Traffic Lights](https://30daysofjs.netlify.app/19%20-traffic%20lights/)               |
-| 20  |             [Levitate Board](https://30daysofjs.netlify.app/20%20-%20levitate%20board/)             |
+| 20  |             [Levitate Board](https://30daysofjs.netlify.app/20%20-%20levitate%20board/)             |-->
     
  </td><td>
-     -->
+     
 <!-- | Day |                                                Name                                                 |
 | --- | :-------------------------------------------------------------------------------------------------: |    
 | 21  |                [Wave Effect](https://30daysofjs.netlify.app/21%20-%20wave%20effect/)                |
